@@ -13,7 +13,7 @@ The method that is employed during this exercise is to have a slide deck that co
 
 Additionally, there will be an accompanying Jupyter notebook that can be converted to an exercise for the future. Currently, this Jupyter notebook serves as a tool to demonstrate modulation, link budget and disturbances from the environment.
 
-## Summary
-
-
 ## File Descriptions
+`Bonaire_signals.pptx` is a power point presentation that includes all of the theoretical material that is to be taught during the lecture.
+
+`modulation.ipynb` is a Jupyter Notebook that goes over information processing, filtering, modulation and noise.
